@@ -8,5 +8,5 @@ This is a Full Stack web application which utilizes MongoDB, Express, React and 
 - Then cd into the frontend and do the same
 - Once all dependencies are downloaded, go into the .env file located in the backend folder and look for the MONGO_URI string.
 - Change the <username> and <password> in the string to your own MongoDb username and password
-- once this is done, in your terminal cd into the root directory on your local device and type npm start
-- this will start both the frontend and the backend
+- once this is done, in your terminal cd into the backend and type npm run dev to start the backend
+- then cd into the frontend and type npm start to launch the frontend
